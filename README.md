@@ -1,2 +1,3 @@
 # Data-Visualization-using-TABLEAU
-storyboard will be an open-ended story foryou to explore various different features in the data and try to showcase different plots. Makesure to have minimum clutter in the plots, follow a consistent color scheme across all the plots,and use proper colors to highlight a specific insight. Moreover, your plots on all the dashboardsshould be interactive and responsive. There should be 1 dashboard that should cover thesummary of the story as well as your recommendations
+
+Compelling storyboard for an Insurance Claims company that has provided with the Car Insurance Claims dataset. Provide Insightful Plots on all the dashboards should be interactive and responsive. Provide Summary of the story as well as Business recommendations.
